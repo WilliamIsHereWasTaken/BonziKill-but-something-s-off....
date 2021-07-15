@@ -8,5 +8,5 @@ When runned, it asks us for granting admin privileges, and it starts its destruc
 ### Download BonziKill 1.0
 - [View release](https://github.com/Vichingo455/BonziKill/releases/tag/1.0)
 - [Download BonziKill by Vichingo455](https://github.com/Vichingo455/BonziKill/releases/download/1.0/BonziKillSetup.exe)
-- [Download Original Bonzi Kill](https://github.com/Vichingo455/BonziKill/releases/download/1.0/OriginalBonziKill.exe)
+- [Download Original BonziKill](https://github.com/Vichingo455/BonziKill/releases/download/1.0/OriginalBonziKill.exe)
 - Download source code: | [zip](https://github.com/Vichingo455/BonziKill/archive/refs/tags/1.0.zip) | [tar.gz](https://github.com/Vichingo455/BonziKill/archive/refs/tags/1.0.tar.gz)
