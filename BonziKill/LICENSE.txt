@@ -1,0 +1,108 @@
+END-USER LICENSE AGREEMENT FOR BONZIBUDDY SOFTW ARE AND BONZIBUDDY
+ADD-ON SOFTWARE
+IMPORTANT: THIS SOFTW ARE END USER LICENSE AGREEMENT ("EULA") IS A LEGAL
+AGREEMENT BETWEEN YOU AND BONZI SOFTWARE. READ IT CAREFULLY BEFORE
+COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE
+ACCOMPANYING THIS EULA, W HICH INCLUDES COMPUTER SOFTW ARE AND MAY
+INCLUDE ASSOCIATED MEDIA, PRINTED MATERIALS, AND ELECTRONIC
+DOCUMENTATION ("SOFTWARE"). BY INSTALLING AND USING THE SOFTWARE, YOU
+ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME
+BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO BE BOUND BY
+THESE TERMS, THEN SELECT THE "CANCEL" BUTTON, DO NOT INSTALL
+1. GRANT OF LICENSE.
+This EULA grants the following rights:
+A You may install and use an unlimited number of copies of the Software.
+A Bonzi Software reserves all rights not expressly granted to you in this EULA.
+2. LICENSE RESTRICTIONS.
+You may not decompile, reverse engineer, disassemble, or otherwise reduce the Software to a
+human-perceivable form, except and only to the extent that such activity is expressly permitted by
+applicable law notwithstanding this limitation.
+You may not modify the Software or create derivative works based upon the Software.
+You may not sell, rent, lease or sublicense the Software.
+You may not export the Software into any country prohibited by the United States Export
+Adm inistration Act and the regulations thereunder.
+W ithout prejudice to any other rights, Bonzi Software may terminate this EULA if you fail to comply
+with the terms and conditions of this EULA. In such event, you must destroy all copies of the
+Software and all of its component parts.
+3. UPGRADES
+If this copy of the Software is an upgrade from an earlier version of the Software, it is provided to
+you on a license exchange basis. You agree by your installation and use of this copy of the
+Software to voluntarily terminate your earlier EULA.
+4. PRIVACY
+From time to time, the Software will send information to and receive information from servers
+maintained by Bonzi Software. This exchange of information is required for the Software to
+function properly. By installing and using the Software, you hereby authorize this exchange.
+Further, when you engage in certain activities with the Software, such as registration, or ordering
+product, the Software may prompt you to provide certain information about yourself by filling out
+and submitting an online form. It is completely optional for you to engage in these activities. If
+you elect to engage in these activities, however, the Software may prompt you to provide personal
+information such as your first and last name, mailing address, e-mail address, and other personal
+identifying information. W hen ordering products or services, you may be asked to provide a credit
+card number. Depending upon the activity, some of the information that the Software may prompt
+you for is identified as mandatory and som e as voluntary. If you do not provide the mandatory
+data with respect to a particular activity, you will not be able to engage in that activity. It is optional
+for you to provide the voluntary information, but encouraged so that the Software can provide
+more personalized features. An updated version of the Bonzi Software Privacy Policy may always
+be found at http://www.bonzi.com /privacypolicy.htm .
+5. OW NERSHIP
+Bonzi Software or its suppliers own all title and interest, including all copyrights, in and to the
+Software and all copies thereof. All rights not specifically granted in this EULA are reserved by
+Bonzi Software and its suppliers.
+6. LIMITED WARRANTY
+NO W ARRANTIES. Bonzi Software expressly disclaims any warranty for the Software. The
+Software is provided "as is" without warranty of any kind, either express or implied, including,
+without limitation, the implied warranties of merchantability, fitness for a particular purpose, or
+noninfringement. The entire risk arising out of use or perform ance of the Software remain with
+you.
+7. EXPORT RESTRICTIONS
+You agree that you will not export or re-export the Software, any part thereof, or any process or
+service that is the direct product of the Software (the foregoing collectively referred to as the
+"Restricted Components"), to any country, person or entity subject to U.S. export restrictions. You
+specifically agree not to export or re-export any of the Restricted Components (i) to any country to
+which the U.S. has em bargoed or restricted the export of goods or services, which currently
+include, but are not necessarily limited to Cuba, Iran, Iraq, Libya, North Korea, Sudan and Syria,
+or to any national of any such country, wherever located, who intends to transmit or transport the
+Restricted Components back to such country; (ii) to any person or entity who you know or have
+reason to know will utilize the Restricted Components in the design, development or production of
+nuclear, chemical or biological weapons; or (iii) to any person or entity who has been prohibited
+from participating in U.S. export transactions by any federal agency of the U.S. government. You
+warrant and represent that neither the U.S. Com merce Department, Bureau of Export
+Adm inistration nor any other U.S. federal agency has suspended, revoked or denied your export
+privileges.
+8. U.S. GOVERNMENT RESTRICTED RIGHTS.
+This Software and documentation are provided with RESTRICTED RIGHTS. Use, duplication, or
+disclosure by the U.S. Governm ent is subject to restrictions as set forth in subparagraph (c)(1)(ii)
+of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or
+subparagraphs (c)(1) and (2) of the Commercial Computer Software-Restricted Rights at 48 CFR
+52.227-19, as applicable. Manufacturer is Bonzi Software/P.O. Box 1222/San Luis Obispo, CA
+93406.
+9. EXCLUSION OF DAMAGES
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BONZI
+OR ITS SUPPLIERS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT,
+INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES W HATSOEVER (INCLUDING,
+W ITHOUT LIMITATION, DAMAGES FOR ANY INJURY TO PERSON OR PROPERTY,
+DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS
+INFORMATION, FOR LOSS OF PRIVACY FOR FAILURE TO MEET ANY DUTY INCLUDING OF
+GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY PECUNIARY
+OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE
+USE OF OR INABILITY TO USE THE SOFTW ARE, W HETHER BASED ON CONTRACT, TORT,
+NEGLIGENCE, STRICT LIABILITY OR OTHERW ISE, EVEN IF BONZI OR ANY SUPPLIER HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IN THE EVENT OF
+THE FAILURE OF AN EXCLUSIVE REMEDY.
+Some states do not allow the exclusion or limitation of liability for special, incidental, or
+consequential damages, so the above limitation may not apply to you and you may also have
+other legal rights that vary from state to state.
+10. LIMITATION AND RELEASE OF LIABILITY.
+The SOFTW ARE was provided to you at no charge and Bonzi has included in this EULA terms
+that disclaim all warranties and liability for the SOFTW ARE. To the full extent allowed by law,
+YOU HEREBY RELEASE BONZI AND ITS SUPPLIERS FROM ANY AND ALL LIABILITY
+ARISING FROM OR RELATED TO ALL CLAIMS CONCERNING THE SOFTWARE OR ITS
+USE. If you do not wish to accept the Software under the terms of this EULA, do not install the
+Software. No refund will be made because the SOFTW ARE was provided to you at no charge.
+11. GOVERNING LAW
+This EULA shall be governed by the laws of the State of California. This EULA contains the
+complete agreement between the parties with respect to the subject matter hereof, and
+supersedes all prior or contem poraneous agreements or understandings, whether oral or written.
+12. QUESTIONS?
+All questions concerning this EULA should be directed to: Bonzi Software, Attn: Support, P.O.
+Box 1222, San Luis Obispo, CA 93406, or via electronic mail to support@bonzi.com.
